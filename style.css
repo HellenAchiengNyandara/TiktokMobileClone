@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -19,8 +19,7 @@
     width: 100vw;
     background-color: #000;
   }
-  
-  /* Header Top Nav (Explore | Following | For You) */
+
   .header {
     position: absolute;
     top: 0;
